@@ -1,0 +1,8 @@
+config:
+   deployIngressController: true
+   zvmNgUrl: http://ng-zvm-ng.zerto.svc.cluster.local:8080
+   siteId:
+
+client:
+   id: enterclientid
+   secretKey: entersecretkey

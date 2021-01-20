@@ -1,0 +1,4 @@
+client:
+   id: enterclientid
+   secretKey: entersecretkey
+   accountName:

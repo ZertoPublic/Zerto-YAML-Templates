@@ -1,0 +1,9 @@
+apiVersion: z4k.zerto.com/v1
+kind: vpg
+spec:
+   Name : entervpgname
+   SourceSite :
+     Id: "add your site name here"
+   TargetSite :
+     Id: "add your site name here"
+   RecoveryStorageClass : default
